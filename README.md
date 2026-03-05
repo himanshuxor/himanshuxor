@@ -84,18 +84,6 @@ Built a **Docker-based orchestration platform** that:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ext-himanshusaraswat-cell&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ext-himanshusaraswat-cell&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -116,7 +104,7 @@ Built a **Docker-based orchestration platform** that:
 
 <p align="center">
 
-<a href="mailto:himanshusaraswat91@gmail.com">
+<a href="mailto:ext-himanshu.saraswat@pocketfm.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
