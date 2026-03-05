@@ -87,7 +87,7 @@ Built a **Docker-based orchestration platform** that:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ext-himanshusaraswat-cell&theme=tokyonight"/>
 </p>
 
 ---
