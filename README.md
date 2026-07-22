@@ -43,23 +43,6 @@ competitive: Codeforces Expert · ICPC Asia Regional Rank 59 · Meta HackerCup G
 <tr>
 <td width="100%">
 
-### 🤖 Software Engineering Intern — Pocket FM (GenAI Team)
-📍 Bengaluru &nbsp;|&nbsp; 🗓️ Feb 2026 – Present
-
-- Engineered prompt and task-configuration logic for a **GenAI-powered multilingual script-adaptation pipeline** across 10+ language pairs (Chinese, Korean, Spanish, Portuguese, French, Tamil, and more)
-- Designed and built a **Gemini-powered Output Validator (v1.6)** classifying script issues as Local/Semi-global/Global, consolidating root causes across 100+ chapters with strict Pydantic schemas
-- Built a **scalable async suggestion pipeline** with segmented batching, concurrency controls, retry fallbacks, and writer-facing Excel reports
-- Resolved a critical **LLM-reliability bug** by implementing finish-reason handling across sync/async call sites, ensuring safety/length-truncated Gemini responses correctly trigger GPT-4.1 fallback
-- Authored per-language **prompt-engineering (YAML) overrides**, restoring dropped SFX/Music cues and resolving POV-consistency issues in LLM outputs
-- Fixed a **knowledge-graph character-name resolution bug** via OpenCC normalization, preserving localized identities across Traditional/Simplified Chinese
-- Eliminated identity drift in a **multimodal Gemini poster-generation tool** by restructuring prompt composition; integrated OpenAI `gpt-image-2` as an alternative model
-- Re-engineered a **Seasonal Thumbnail pipeline** with parallelized batch summarization and Vertex AI image generation, cutting processing time **6–7x** (~20 min → 3–4 min)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
 ### 💻 Software Engineering Intern — prutor.ai
 📍 May 2024 – July 2024
 
