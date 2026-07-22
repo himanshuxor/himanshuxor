@@ -116,11 +116,6 @@ competitive: Codeforces Expert · ICPC Asia Regional Rank 59 · Meta HackerCup G
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ext-himanshusaraswat-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ext-himanshusaraswat-cell&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ext-himanshusaraswat-cell&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -130,13 +125,6 @@ competitive: Codeforces Expert · ICPC Asia Regional Rank 59 · Meta HackerCup G
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ext-himanshusaraswat-cell&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<br/>
 
 ## 🌐 Connect With Me
 
