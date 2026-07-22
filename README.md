@@ -1,125 +1,152 @@
-<h1 align="center">Hi 👋, I'm Himanshu Saraswat</h1>
-<h3 align="center">Software Engineer | Backend Developer | Competitive Programmer</h3>
+<h1 align="center">Hi there, I'm Himanshu Saraswat 👋</h1>
+<h3 align="center">GenAI Developer • Backend Engineer • Competitive Programmer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=SWE+Intern+@+Pocket+FM;Backend+Systems+Engineer;ICPC+Regionalist+2023;Codeforces+Expert;CodeChef+4%E2%AD%90+%7C+LeetCode+Knight;MERN+%7C+Docker+%7C+Distributed+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=GenAI+Developer+%40+Pocket+FM;LLM+Orchestration+%26+Agentic+RAG;ICPC+Regional+Rank+59;Codeforces+Expert+(1626)+%7C+CodeChef+4%E2%98%85;LeetCode+Knight+(2009)+%7C+Prompt+Engineering" />
 </p>
-
----
-
-# 🚀 About Me
-
-🎓 B.Tech Computer Science @ **IIIT Sri City (2022-2026)**  
-💼 **Software Engineer Intern @ Pocket FM**  
-💻 Passionate about **Backend Engineering & Distributed Systems**
-
-⚡ Competitive Programming Achievements
-
-- 🏆 **ICPC Regionalist 2023**
-- 💎 **Codeforces Expert**
-- ⭐ **CodeChef 4★**
-- 🛡 **LeetCode Knight**
-
----
-
-# 🧠 Experience
-
-## 💼 Pocket FM — Software Engineer Intern
-📍 Bengaluru | Feb 2026 – Present
-
-- Working on **scalable backend systems**
-- Building high-performance services and improving reliability
-
----
-
-## 💻 Prutor@IITK — Software Developer
-
-Built a **Docker-based orchestration platform** that:
-
-🚀 Reduced deployments from **45 minutes → 3 minutes (93% faster)**  
-⚡ Created **WebSocket log system handling 10K+ events/min**  
-📊 Developed **React dashboard monitoring 50+ containers**
-
----
-# 🛠 Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
----
-
-### ⚙️ Backend & Systems
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![WebSockets](https://img.shields.io/badge/WebSockets-grey?style=for-the-badge)
-
----
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-
----
-
-### ☁️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Container Orchestration](https://img.shields.io/badge/Container-Orchestration-orange?style=for-the-badge)
-
----
-
-### 🤖 Generative AI / AI Stack
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/Vector%20DBs-purple?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-red?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Architecture-blue?style=for-the-badge)
-
----
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ext-himanshusaraswat-cell&theme=tokyonight"/>
+  <a href="mailto:himanshusaraswat91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/himanshu-saraswat-763843258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ext-himanshusaraswat-cell&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ext-himanshusaraswat-cell&theme=tokyo-night"/>
+  <img src="https://img.shields.io/badge/ICPC-Asia_Regional_Rank_59-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Meta_HackerCup-Global_Rank_931-1877F2?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-Expert_1626-1e88e5?style=flat-square&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-4★-5b3a29?style=flat-square" />
+  <img src="https://img.shields.io/badge/LeetCode-Knight_2009-ffa116?style=flat-square&logo=leetcode&logoColor=white" />
 </p>
 
----
+<br/>
 
-# 🌐 Connect With Me
+## 🚀 About Me
+
+```yaml
+role:        GenAI Developer (SWE Intern) @ Pocket FM
+education:   B.Tech Computer Science, IIIT Sri City (2022 – 2026) | CGPA: 8.19/10
+focus:       LLM Orchestration, Agentic RAG Pipelines & Prompt Engineering
+building:    Multi-modal AI workflows & scalable AI systems
+competitive: Codeforces Expert · ICPC Asia Regional Rank 59 · Meta HackerCup Global Rank 931
+```
+
+<br/>
+
+## 🧠 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### 🤖 Software Engineering Intern — Pocket FM (GenAI Team)
+📍 Bengaluru &nbsp;|&nbsp; 🗓️ Feb 2026 – Present
+
+- Engineered prompt and task-configuration logic for a **GenAI-powered multilingual script-adaptation pipeline** across 10+ language pairs (Chinese, Korean, Spanish, Portuguese, French, Tamil, and more)
+- Designed and built a **Gemini-powered Output Validator (v1.6)** classifying script issues as Local/Semi-global/Global, consolidating root causes across 100+ chapters with strict Pydantic schemas
+- Built a **scalable async suggestion pipeline** with segmented batching, concurrency controls, retry fallbacks, and writer-facing Excel reports
+- Resolved a critical **LLM-reliability bug** by implementing finish-reason handling across sync/async call sites, ensuring safety/length-truncated Gemini responses correctly trigger GPT-4.1 fallback
+- Authored per-language **prompt-engineering (YAML) overrides**, restoring dropped SFX/Music cues and resolving POV-consistency issues in LLM outputs
+- Fixed a **knowledge-graph character-name resolution bug** via OpenCC normalization, preserving localized identities across Traditional/Simplified Chinese
+- Eliminated identity drift in a **multimodal Gemini poster-generation tool** by restructuring prompt composition; integrated OpenAI `gpt-image-2` as an alternative model
+- Re-engineered a **Seasonal Thumbnail pipeline** with parallelized batch summarization and Vertex AI image generation, cutting processing time **6–7x** (~20 min → 3–4 min)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 💻 Software Engineering Intern — prutor.ai
+📍 May 2024 – July 2024
+
+- Engineered a **container orchestration platform** (Docker + Node.js), cutting deployment time **93%** (45 min → 3 min)
+- Architected a **real-time log aggregation system** via WebSockets processing **10K+ events/min**, accelerating incident resolution **80%** across 30+ microservices
+- Developed a **low-latency React dashboard** (sub-100ms) for real-time container metrics across 50+ active containers with zero-downtime observability
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💡 Projects
+
+<table>
+<tr>
+<td width="100%">
+
+### 📄 QueryDocs — Agentic RAG Platform
+`Next.js` `Node.js` `LangChain` `Qdrant` `PostgreSQL` `BullMQ` `Docker`
+
+- Engineered a **private Agentic RAG platform** for querying, summarizing, and comparing scoped PDF documents with grounded, citation-aware insights
+- Implemented a **hybrid retrieval pipeline** combining Qdrant semantic search + PostgreSQL full-text search, with query rewriting, reranking, and context compression
+- Designed a **planner-driven agentic workflow** with autonomous tool calls for document search, entity extraction, timeline generation, and evidence-based answer verification
+- Architected a **scalable async ingestion system** (BullMQ + Valkey + distributed workers) for resilient PDF parsing, chunking, and vector indexing
+- Integrated production-grade observability: custom Dev Dashboard, structured logging, latency metrics, budget controls, and local RAG evaluation tracing
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<a href="mailto:ext-himanshu.saraswat@pocketfm.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/himanshu-saraswat-763843258/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,html,css,latex,fastapi,django,nodejs,react,nextjs,docker,kafka,redis,gcp,aws,git,github,vscode&perline=11" />
 </p>
 
----
+<div align="center">
 
-# ⚡ Fun Fact
+| Category | Stack |
+|---|---|
+| **GenAI & LLM** | LangChain · RAG Pipelines · Prompt Engineering · LLM Orchestration (Gemini, OpenAI, Anthropic) · Pydantic · G-Eval / LLM-as-a-Judge · Vertex AI · Vector DBs (Qdrant) |
+| **Languages** | Python (Expert) · C++ · Java · JavaScript/TypeScript · SQL (PostgreSQL) · HTML/CSS · LaTeX |
+| **Backend & Infra** | FastAPI · Django · Node.js · Next.js · React · Celery · WebSockets · Docker · Kafka · RabbitMQ · Redis · BullMQ · GCP · AWS · Git · CI/CD |
+| **Core Concepts** | Agentic AI Workflows · Asynchronous Processing · Microservices · Distributed Systems · DSA · Computer Vision |
 
-I enjoy building **high-performance backend systems and distributed platforms** that scale to thousands of users.
+</div>
 
----
+<br/>
 
-⭐ From **Himanshu Saraswat**
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ext-himanshusaraswat-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ext-himanshusaraswat-cell&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ext-himanshusaraswat-cell&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ext-himanshusaraswat-cell&theme=tokyo-night&hide_border=true" />
+</p>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ext-himanshusaraswat-cell&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:himanshusaraswat91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/himanshu-saraswat-763843258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>⭐ From Himanshu Saraswat — thanks for stopping by!</i></p>
